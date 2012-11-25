@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo2", "Demo2\Demo2.csproj", "{F332DEA9-8D99-4BCC-B83D-2FC516F422D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDC.Libs", "..\..\Vorbereiteter Code\DDC.Vorbereitet\DDC.Libs\DDC.Libs.csproj", "{A2B8CC85-CDC2-4040-BEA4-0791C3A566E7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Demo2.FSharpRettung", "Demo2.FSharpRettung\Demo2.FSharpRettung.fsproj", "{D4551AEC-6860-4E17-ACD6-07138F051929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F332DEA9-8D99-4BCC-B83D-2FC516F422D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F332DEA9-8D99-4BCC-B83D-2FC516F422D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F332DEA9-8D99-4BCC-B83D-2FC516F422D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F332DEA9-8D99-4BCC-B83D-2FC516F422D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B8CC85-CDC2-4040-BEA4-0791C3A566E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B8CC85-CDC2-4040-BEA4-0791C3A566E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B8CC85-CDC2-4040-BEA4-0791C3A566E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B8CC85-CDC2-4040-BEA4-0791C3A566E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4551AEC-6860-4E17-ACD6-07138F051929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4551AEC-6860-4E17-ACD6-07138F051929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4551AEC-6860-4E17-ACD6-07138F051929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4551AEC-6860-4E17-ACD6-07138F051929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
